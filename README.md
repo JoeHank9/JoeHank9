@@ -2,19 +2,18 @@
 <h3 align="center">A passionate blockhchain developer from México</h3>
 
  
-<p align="left"> <a href="https://twitter.com/joehank9_" target="blank"><img src="https://img.shields.io/twitter/follow/dokxo_96?logo=twitter&style=for-the-badge" alt="dokxo_96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/joehank9_" target="blank"><img src="https://img.shields.io/twitter/follow/JoseCanales99?logo=twitter&style=for-the-badge" alt="JoseCanales99" /></a> </p>
 
-- 🌱 I’m currently learning **Rust,Solidity,Next.js,React ,Spring**
+- 🌱 I’m currently learning **Rust, Solidity, Next.js, React, AssamblyScript**
 
-- 💬 Ask me about **Reactjs,Truffle suite,Blockchain,NTF's ,SmartContracts**
+- 💬 Ask me about **Reactjs, Truffle suite, Blockchain,NTF's , SmartContracts**
 
 - 📫 How to reach me **jcanalesn9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joehank9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dokxo_96" height="30" width="40" /></a>
+<a href="https://twitter.com/joehank9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JoseCanales99" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniel-antonio-mora-alba-128030111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel antonio mora alba" height="30" width="40" /></a>
-<a href="https://fb.com/dokxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dokxo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,8 +27,8 @@
 <a href="https://platzi.com/p/danielmora96/curso/1944-estrategias-ingles/diploma/detalle/" target="_blank"> <img src=https://static.platzi.com/media/achievements/badge-aprender-ingles-online-a8141ccd-4aa3-4235-a897-5ad3a77fd6e8.png alt="Estrategias para Aprender Inglés" width="40" height="40"/> </a> 
 <a href="https://platzi.com/p/danielmora96/curso/1749-gestion-tiempo/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badge-gestion-tiempo-5368aa24-4418-4e10-b6c3-c8775b849bf9.png" alt="remotework" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dokxo96&show_icons=true&locale=en&layout=compact" alt="dokxo96" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseCanales99&show_icons=true&locale=en&layout=compact" alt="JoseCanales99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dokxo96&show_icons=true&locale=en" alt="dokxo96" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseCanales9996&show_icons=true&locale=en" alt="JoseCanales99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokxo96&" alt="dokxo96" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseCanales99&" alt="JoseCanales99" /></p>
