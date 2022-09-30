@@ -21,7 +21,7 @@
 # Courses and certificates
 
  
-<a href="https://platzi.com/p/canales4420/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badges-categorias-negocios-emprendimiento-1-90ace212-529a-4741-8a55-6a56d0d48f0f-b3.png" alt="remotework" width="40" height="40"/> </a> 
+<a href="https://platzi.com/p/JoeHank/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badges-categorias-negocios-emprendimiento-1-90ace212-529a-4741-8a55-6a56d0d48f0f-b3.png" alt="remotework" width="40" height="40"/> </a> 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseCanales99&show_icons=true&locale=en&layout=compact" alt="JoseCanales99" /></p>
