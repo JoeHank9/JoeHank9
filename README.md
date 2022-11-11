@@ -21,7 +21,9 @@
 # Courses and certificates
 
  
-<a href="https://platzi.com/p/JoeHank/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badges-categorias-negocios-emprendimiento-1-90ace212-529a-4741-8a55-6a56d0d48f0f-b3.png" alt="remotework" width="40" height="40"/> </a> 
+<a href="https://platzi.com/p/JoeHank/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badges-categorias-negocios-emprendimiento-1-90ace212-529a-4741-8a55-6a56d0d48f0f-b3.png" alt="Curso de Trabajo Remoto o Teletrabajo" width="40" height="40"/> </a> 
+
+<a href="https://platzi.com/p/JoeHank/curso/1285-hablar-en-publico/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/1285-4cf709f2-7905-4e4b-95fb-409d8d83b68d.png" alt="Curso de Oratoria para Hablar en Público" width="40" height="40"/> </a> 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoeHank9&show_icons=true&locale=en&layout=compact" alt="JoeHank9" /></p>
