@@ -4,9 +4,9 @@
  
 <p align="left"> <a href="https://twitter.com/darkjoehank" target="blank"><img src="https://img.shields.io/twitter/follow/darkjoehank?logo=twitter&style=for-the-badge" alt="darkjoehank" /></a> </p>
 
-- 🌱 I’m currently learning and using **Rust, Solidity, Node.js, React, AssamblyScript, JavaScritp, Linux**
+- 🌱 I’m currently learning and using **Rust, Solidity, Node.js, React.js, WebAssembly, AssamblyScript, JavaScritp, TypeScript, Linux**
 
-- 💬 Ask me about **Reactjs, Blockchain, NTF's , SmartContracts, Web 3**
+- 💬 Ask me about **Rust, Blockchain, NTF's, SmartContracts, DApps, Web 3**
 
 - 📫 How to reach me **jcanalesn9@gmail.com**
 
