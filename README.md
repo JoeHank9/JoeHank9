@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Hank</h1>
-<h3 align="center">A passionate Blockchain Developer from México</h3>
+<h3 align="center">A passionate Software Developer from México</h3>
 
 
 - 🌱 I’m currently learning and using **Rust, Solidity, Node.js, React.js, WebAssembly, AssamblyScript, JavaScritp, TypeScript, Linux**
