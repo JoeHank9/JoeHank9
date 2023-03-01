@@ -30,6 +30,7 @@
  <a href="https://near.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near.svg" alt="NEAR" width="36" height="36"/></a>
  <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana"/></a>
  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask"/></a>
+ <a href="https://aws.amazon.com/es/amplify/hosting/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/2458b6939ba47fc884f5ad8413d39c015608ddbd59702d473e80f66877b1e470/68747470733a2f2f646f63732e616d706c6966792e6177732f6173736574732f6c6f676f2d6461726b2e737667" width="36" height="36" alt="AWSAmplify"/></a>
  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/> </a>
  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="36" height="36"/></a>
 </p>
