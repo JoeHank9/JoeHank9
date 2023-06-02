@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Hank</h1>
 <h3 align="center">A passionate Software Developer from México</h3>
 
- <a href="https://www.twitter.com/darkjoehank" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/darkjoehank?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+ <a href="https://www.twitter.com/darkjoehank" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/joehank_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 - 🌱 I’m currently learning and using **Rust, JavaScritp, TypeScript, React.js, Node.js, SQL, WebAssembly, Linux**
 
